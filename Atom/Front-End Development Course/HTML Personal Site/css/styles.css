@@ -1,0 +1,26 @@
+
+  body {
+    background-color: #EAF6F6;
+    font-family: bookerly; 
+  }
+
+  hr {
+    background-color: #EAF6F6;
+    color: grey;
+    border-style: dotted none none;
+    border-width: 8px;
+    width: 5%;
+    box-sizing: border-box;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h2 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }

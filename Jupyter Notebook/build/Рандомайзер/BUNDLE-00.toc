@@ -1,0 +1,3 @@
+([('Рандомайзер',
+   '/Users/ro.sharp/Documents/Untitled Folder/dist/Рандомайзер',
+   'EXECUTABLE')],)
